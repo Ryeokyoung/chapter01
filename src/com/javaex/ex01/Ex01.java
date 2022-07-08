@@ -33,7 +33,7 @@ public class Ex01 {
 		//int 산술연산 가능, null 초기화 불가능 
 		//Integer unboxing 상태에서 연산불가, null값 처리 가능(SQL사용용이) 
 		
-		integer nnn = integer.MAX_VALUE;
+
 		
 		
 		
