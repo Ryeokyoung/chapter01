@@ -16,7 +16,7 @@ public class Ex09 {
 		//System.out.println(n1);//false
 		//System.out.println(n2);//false
 		System.out.println(n1!=n2);//!=(같지않니)
-
+d
 
 	}
 }
