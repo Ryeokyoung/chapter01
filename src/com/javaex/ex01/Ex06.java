@@ -71,4 +71,4 @@ public class Ex06 {
 			System.out.println(v10); //7.0 
 		}
 	}
-}
+
